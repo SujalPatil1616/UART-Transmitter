@@ -25,7 +25,7 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) Tra
 - uart_tx_tb.v : Testbench for simulation
 - uart-waveform.png : Simulation waveform
 
-## Waveform
+
 ## Waveform
 
 <img src="https://github.com/SujalPatil1616/UART-Transmitter/blob/main/uart_%20waveform.png" width="800">
