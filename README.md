@@ -28,5 +28,8 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) Tra
 ## Result
 The UART transmitter was successfully simulated and verified using waveform analysis.
 
+## Waveform
+![UART Waveform](uart_waveform.png)
+
 ## Author
 Sujal Patil
