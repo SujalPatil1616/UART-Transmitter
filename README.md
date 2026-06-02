@@ -28,7 +28,7 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) Tra
 ## Waveform
 ## Waveform
 
-<img src="PASTE_THE_COPIED_URL_HERE" width="800">
+<img src="https://github.com/SujalPatil1616/UART-Transmitter/blob/main/uart_%20waveform.png" width="800">
 
 ## Result
 The UART transmitter was successfully simulated and verified using waveform analysis.
