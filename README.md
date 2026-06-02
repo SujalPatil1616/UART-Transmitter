@@ -26,7 +26,7 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) Tra
 - uart-waveform.png : Simulation waveform
 
 ## Waveform
-<img src="./uart_waveform.png" width="800">
+![UART Waveform](./uart_waveform.png)
 
 ## Result
 The UART transmitter was successfully simulated and verified using waveform analysis.
