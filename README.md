@@ -25,11 +25,12 @@ This project implements a UART (Universal Asynchronous Receiver Transmitter) Tra
 - uart_tx_tb.v : Testbench for simulation
 - uart-waveform.png : Simulation waveform
 
+## Waveform
+<img src="./uart_waveform.png" width="800">
+
 ## Result
 The UART transmitter was successfully simulated and verified using waveform analysis.
 
-## Waveform
-![UART Waveform](uart_waveform.png)
 
 ## Author
 Sujal Patil
